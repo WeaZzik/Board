@@ -1,0 +1,152 @@
+
+html
+{
+	background-image: url("BG2.jpg");
+	background-attachment: fixed;
+}
+
+#img1
+{
+	position:fixed;
+	height:14%;
+	top:1%;
+}
+
+#div1
+{
+	position: fixed;
+	left:10%;
+	right:2%;
+	top: 1%;
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+	border-radius: 40px;
+	background-color: black;
+	z-index: 1000;
+}
+
+#div1 ul
+{
+	padding-left:10%;
+	top: 2%;
+	white-space: 10px;
+}
+
+#div1 ul li
+{
+	list-style-type: none;
+}
+
+#div1 ul li a
+{
+	text-decoration: none;
+	font-size: 40px;
+	font-family:Arial;
+}
+
+.accueil
+{
+	color: ECD3CE;
+}
+
+.accueil:hover
+{
+	color: red;
+}
+
+.accueil:active
+{
+	color:orange;
+}
+
+.tutoriels
+{
+	color: ECD3CE;
+}
+
+.tutoriels:hover
+{
+	color: red;
+}
+
+.tutoriels:active
+{
+	color:orange;
+}
+
+.autres
+{
+	color: ECD3CE;
+}
+
+.autres:hover
+{
+	color: red;
+}
+
+.autres:active
+{
+	color:orange;
+}
+
+#div7	{
+	background-color: rgba(0,0,0,0.75);
+	height: 350px;	
+	width: 66%;
+	margin-left: 21%;
+	margin-top: 10%;
+	border-radius: 25px;
+	text-align: center;
+}
+
+#div8
+{
+	background-color: rgba(0,0,0,0.75);
+	height: 1000px;	
+	width: 88%;
+	margin-left: 10%;
+	border-radius: 25px;
+	text-align: center;
+}
+
+#div4
+{
+	background-color: rgba(0,0,0,0.75);
+	height: 800px;	
+	width: 88%;
+	margin-left: 10%;
+	margin-top: 10%;
+	border-radius: 25px;
+	opacity: 90%;
+	text-align: center;
+}
+#div6
+{
+	background-color: rgba(0,0,0,0.75);
+	height: 1200px;	
+	width: 88%;
+	margin-left: 10%;
+	margin-top: 10%;
+	border-radius: 25px;
+	text-align: center;
+}
+.DLL
+{
+	text-decoration: none;
+	color: blue;
+}
+
+.DLL:hover
+{
+	color: BB33FF;
+}
+.DLL2
+{
+	text-decoration: none;
+	color: 33FFE9;
+}
+
+.DLL2:hover
+{
+	color: 33FF3C;
+}
