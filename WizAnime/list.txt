@@ -1,0 +1,126 @@
+08/10/2019  20:34    <DIR>          Absolute Duo
+10/09/2019  18:11    <DIR>          Active Raid
+15/09/2019  13:15    <DIR>          Ajin
+18/08/2019  14:50    <DIR>          AkumaNoRiddle
+18/08/2019  14:50    <DIR>          Amaenaide Yo
+18/08/2019  14:51    <DIR>          Amnesia
+10/09/2019  18:14    <DIR>          Angel Beats
+18/08/2019  14:53    <DIR>          Angel of Death
+10/09/2019  18:09    <DIR>          Another
+18/08/2019  14:55    <DIR>          Ao no Exorcist
+18/08/2019  14:56    <DIR>          Aoharu x Kikanjuu
+18/08/2019  14:58    <DIR>          Arslan Senki
+18/08/2019  14:58    <DIR>          Asobi
+10/09/2019  18:28    <DIR>          Assassination Classroom
+18/08/2019  15:01    <DIR>          Baki
+18/08/2019  15:04    <DIR>          Beelzebub
+11/09/2019  22:45    <DIR>          Black Clover
+29/10/2019  15:57    <DIR>          Boku Dake Ga Inai Machi
+18/08/2019  15:13    <DIR>          Boku no Hero Academia
+18/08/2019  15:16    <DIR>          Btooom
+18/08/2019  15:17    <DIR>          Campione!
+09/09/2019  21:42    <DIR>          Charlotte
+18/08/2019  15:18    <DIR>          Cupids Chocolates
+18/08/2019  15:19    <DIR>          Daitoshokan
+18/08/2019  15:19    <DIR>          Dakedo Imouto ja Nai
+18/08/2019  15:22    <DIR>          DanMachi
+10/09/2019  18:25    <DIR>          Darling in the FranXX
+18/08/2019  15:26    <DIR>          Date A Live
+18/08/2019  15:28    <DIR>          Devils Line
+18/08/2019  15:29    <DIR>          Domestic na Kanojo
+03/09/2019  19:55    <DIR>          Dragon Ball Z
+10/09/2019  18:31    <DIR>          Drifters
+18/08/2019  15:30    <DIR>          Elfen Lied
+18/08/2019  15:31    <DIR>          Endride
+10/09/2019  22:21    <DIR>          Fairy Tail
+29/10/2019  16:18    <DIR>          Fate Zero
+08/09/2019  19:00    <DIR>          Fire Force
+09/09/2019  01:05    <DIR>          Fullmetal Alchemist Brotherhood
+18/08/2019  15:37    <DIR>          Gamers
+09/09/2019  21:52    <DIR>          Goblin Slayer
+04/09/2019  17:38    <DIR>          Golden Time
+29/10/2019  15:58    <DIR>          Grisaia
+09/09/2019  21:40    <DIR>          Guilty Crown
+18/08/2019  15:40    <DIR>          Hagure Yuusha no Estetica
+18/08/2019  15:41    <DIR>          Hamatora
+18/08/2019  15:42    <DIR>          Highschool DxD
+18/08/2019  15:43    <DIR>          HOTD
+18/08/2019  15:44    <DIR>          Hundred
+09/09/2019  22:49    <DIR>          Hunter x Hunter
+18/08/2019  15:53    <DIR>          Hyakka Ryouran
+18/08/2019  15:54    <DIR>          Hyouka
+18/08/2019  15:55    <DIR>          Ikkitousen
+18/08/2019  15:55    <DIR>          In Other World With Smartphone
+18/08/2019  15:56    <DIR>          Inou-Battle wa Nichijou-kei
+18/08/2019  15:56    <DIR>          IS Infinite Stratos
+18/08/2019  15:57    <DIR>          Joukamachi no Dandelion
+18/08/2019  15:58    <DIR>          K
+18/08/2019  15:59    <DIR>          Kakegurui
+14/09/2019  00:31    <DIR>          Kami-sama no Memo-chou
+18/08/2019  16:00    <DIR>          Kaze no Stigma
+18/08/2019  16:01    <DIR>          Kekkai Sensen
+05/09/2019  23:15    <DIR>          Kimetsu no Yaiba
+01/11/2019  04:32    <DIR>          Knights and Magic
+18/08/2019  16:02    <DIR>          Koi to Uso
+14/09/2019  00:22    <DIR>          Kokoro Connect
+18/08/2019  16:02    <DIR>          Kono Naka ni Hitori
+18/08/2019  16:05    <DIR>          KonoSuba
+18/08/2019  16:07    <DIR>          Kuzu no Honkai
+18/08/2019  16:08    <DIR>          Kyoukai no Kanata
+18/08/2019  16:10    <DIR>          Log Horizon
+18/08/2019  16:11    <DIR>          Machine Doll wa Kizutsukanai
+18/08/2019  16:13    <DIR>          Magi
+01/11/2019  06:16    <DIR>          Mahouka Koukou No Rettousei
+23/10/2019  15:09    <DIR>          Maken-ki
+18/08/2019  16:14    <DIR>          Midara na Ao-chan
+18/08/2019  16:20    <DIR>          Mirai Nikki
+18/08/2019  16:20    <DIR>          Mob Psycho 100
+14/09/2019  16:10    <DIR>          Monogatari
+18/08/2019  16:20    <DIR>          Monster Musume
+18/08/2019  16:22    <DIR>          Nanatsu no Taizai
+18/08/2019  16:24    <DIR>          Nanbaka
+18/08/2019  16:26    <DIR>          Netoge no Yome
+18/08/2019  16:26    <DIR>          No Maid Dragon
+18/08/2019  16:27    <DIR>          Noucome
+14/09/2019  00:14    <DIR>          Oda Nobuna no Yab“
+03/09/2019  20:23    <DIR>          Okusama ga Seitokaichou
+09/09/2019  00:32    <DIR>          One Piece
+18/08/2019  17:02    <DIR>          One Punch Man
+14/09/2019  00:17    <DIR>          Onegai Twins
+18/08/2019  17:04    <DIR>          Onii chan Dakedo
+30/10/2019  13:49    <DIR>          Oregairu
+18/08/2019  17:05    <DIR>          Oreshura
+18/08/2019  17:05    <DIR>          Prison School
+18/08/2019  17:06    <DIR>          Rakudai Kishi no Cavalry
+18/08/2019  17:07    <DIR>          Re Zero
+18/08/2019  17:08    <DIR>          Release the Spyce
+06/09/2019  02:08    <DIR>          ReLife
+18/08/2019  17:08    <DIR>          Rokka no Yuusha
+18/08/2019  17:09    <DIR>          Saenai Heroine no Sodatekata
+01/11/2019  04:10    <DIR>          Saijaku Muhai no Bahamut
+03/09/2019  19:18    <DIR>          Sakurasou no Pet na Kanajo
+18/08/2019  17:10    <DIR>          School Days
+18/08/2019  17:11    <DIR>          Seikoku no Dragonar
+18/08/2019  17:12    <DIR>          Seikon no Qwaser
+18/08/2019  17:12    <DIR>          Seiyaku no Valkyria
+18/08/2019  17:14    <DIR>          Shijou Saikyou no Deshi Kenichi
+18/08/2019  17:15    <DIR>          Shimoseka
+18/08/2019  17:17    <DIR>          Shingeki no Kyojin
+22/10/2019  20:54    <DIR>          Shinmai Maou No Testament
+18/08/2019  17:20    <DIR>          Shoukan Shoujo no Dorei
+18/08/2019  17:21    <DIR>          Sora no Otoshimono
+31/10/2019  01:03    <DIR>          Strike the Blood
+15/09/2019  12:33    <DIR>          Sword Art Online
+01/11/2019  06:29    <DIR>          Taimadou Gakuen 35
+18/08/2019  17:25    <DIR>          Tensei shitara Slime Datta Ken
+18/08/2019  17:26    <DIR>          Tenshi no 3P
+18/08/2019  17:27    <DIR>          The Promised Neverland
+18/08/2019  17:30    <DIR>          To Love Ru
+10/09/2019  18:19    <DIR>          Tokyo Ghoul
+18/08/2019  17:31    <DIR>          Trinity Seven
+18/08/2019  17:32    <DIR>          Tsurezure Children
+18/08/2019  17:32    <DIR>          Wotaku ni Koi wa Muzukashii
+18/08/2019  17:33    <DIR>          Yamada-kun
+18/08/2019  17:35    <DIR>          You Jitsu
+23/10/2019  15:14    <DIR>          Yuusha ni Narenakatta
+18/08/2019  17:35    <DIR>          Zero no Tsukaima

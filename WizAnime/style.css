@@ -1,0 +1,285 @@
+
+/* Mise en Forme */
+
+html, header{
+	background-color:#2B2736;
+}
+.lettre{
+	letter-spacing: 3px;
+}
+h2.lettre a{
+	text-decoration: none;
+	color: #1146A4;
+}
+.Form1{
+	z-index: 1000;
+	height:7%;
+	width:98.80%;
+	background-color:#1E1C25;
+	box-shadow: 3px 5px 8px #24212C;
+	border-radius: 30px 10px 10px 30px;
+	position: fixed;
+}
+.Form2{
+	height:50%;
+	width:100%;
+	background-color:#1E1C25;
+	border-radius: 0px 0px 10px 10px;
+	box-shadow: 2px 2px 2px #24212C;
+	text-align: center;
+}
+.body1{
+	font-size: 150%;
+	font-family: Arial;
+	text-align: center;
+	display: hidden;
+}
+.anime1{
+	text-align: left;
+	margin-left: 30%;
+	font-size: 120%;
+	letter-spacing: 2px;
+	color:A41E11;
+}
+.barre{
+	clear: both;
+	position: absolute;
+	margin-top :3px;
+	height: 38px;
+	width : 1px;
+	background: #16151A;
+	box-shadow: 0px 1px 4px #131316;
+}
+.barre2{
+	clear: both;
+	position: absolute;
+	margin-left:20px;
+	height: 2px;
+	width : 1000px;
+	background: #16151A;
+}
+.autre{
+	font-family: Arial;
+	font-size: 100%;
+	margin-top: -40px;
+	margin-left: 15px;
+}
+.foot{
+	font-size:58%;
+}
+footer{
+  height: 100px;
+  position: absolute;
+  margin-bottom: 0px;
+  text-align: center;
+  font-size:95%;
+}
+
+.body1 a:hover{
+	color: #ABABB1;
+}
+.body1 a{
+	text-decoration: none;
+	color: white;
+	font-family: comic sans ms;
+}
+.body1 ul li{
+	text-align: left;
+	margin-left:0%;
+	padding-right:0%;
+	letter-spacing: 2px;
+	list-style: none;
+}
+
+/* Naviguation */
+
+p{
+ 
+    display: inline;
+ 
+}
+nav{
+}
+nav ul{
+	list-style-type: none;
+}
+nav ul li{
+	font-family:comic sans ms;
+}
+nav ul li #accueil{
+	margin-top:-48px;
+	margin-left:137px;
+}
+nav ul li #download{
+	margin-top:-33px;
+	margin-left:344px;
+}
+nav ul li #streaming{
+	margin-top:-33px;
+	margin-left:555px;
+}	
+nav ul li #pa{
+	margin-top:-33px;
+	margin-left:773px;
+}
+nav ul::after{
+	content: "";
+	display: table;
+	clear: both;
+}
+nav a{
+	display:block;
+	text-decoration: none;
+	color: #ABABB1;
+	padding: 5px 0px;
+}
+nav a:hover{
+	color: white;
+}
+
+/* Recherche */
+
+.recherche{
+	text-align: right;
+	padding-right:10px;
+}
+#searchthis #search {
+	background-color: #ffffff;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #dddddd;
+	padding: 5px 10px 5px 10px;
+	width: 11%;
+	box-sizing: border-box;
+	font-family : comic sans ms;
+	font-size: 12px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	border-radius: 10px 10px 10px 10px;
+}
+#searchthis #search-btn {
+	background-color: red;   /* Couleur de fond */
+	border-radius: 10px 10px 10px 10px;
+	border-style: solid;   /* Style de la bordure  */
+	border-width: 1px;   /* Epaisseur de la bordure  */
+	border-color: red;   /* Couleur de la bordure  */
+	padding: 5px 10px 5px 10px;   /* Espace entre les bords et le contenu : haut droite bas gauche  */
+	width: 9.5%;   /* Permet d'ajuster la largeur du bouton à 100% */
+	box-sizing: border-box;   /* Important */
+	font-family: comic sans ms;   /* Police du texte */
+	font-size: 10px;   /* Taille de la police du texte */
+	font-weight: bold;   /* Graisse du texte : normal = normal ; bold = gras */
+	letter-spacing: 2px;   /* Espacement des caractères */
+	margin: 10px 0 0 0;   /* Espace autour du bouton : haut droite bas gauche  */
+	text-transform: uppercase;   /* Transforme le texte en majuscules */
+	color: #ffffff;   /* Couleur du texte */
+}
+#searchthis #search-btn:hover {
+  background-color: #ffffff;   /* Couleur de fond */
+  color: red;   /* Couleur du texte */
+  cursor: pointer;   /* Apparence du curseur comme pour un lien */
+}
+
+/* Lien Anime */
+
+.sousmenu{
+	height:60px;
+	width:300px;
+	padding:1px 0;
+	margin-left: 30%;
+	padding-bottom: 2%;
+}
+.sousmenu a{
+	width:50%;
+	height:50%;
+	color:red;
+	text-decoration: none;
+}
+.sousmenu a:hover{
+	color:orange;
+}
+.menu a:hover{
+	cursor:pointer;
+}
+.menu{
+	position: relative;
+	width: 30%;
+	height: 35px;
+	left: 30%;
+	}
+	
+#acc1{
+	position: relative;
+	height:auto;
+	width:60%;
+	left: 20%;
+	bottom: 15%;
+	background-color:#1E1C25;
+	border-radius: 75px 75px 75px 75px;
+	box-shadow: 3px 3px 20px black;
+	text-align: center;
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+}
+
+#about{
+	position: relative;
+	bottom: 70%;
+	right: 17.5%;
+	font-size: 75%;
+	line-height: 0.8;
+}
+#div1{
+	background-color:#1E1C25;
+	margin-left: 5%;
+	margin-top: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+	width:90%;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 1px 1px 10px;
+	padding: 1% 1% 1% 1%;
+}
+
+.div2{
+	background-color:#171717;
+	display: inline-block;
+	margin-left: 0.5%;
+	margin-top: 1%;
+	margin-right: 0.5%;
+	margin-bottom: 1%;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 1px 1px 5px;
+	text-align: center;
+	font-family: Asap,sans-serif;
+	vertical-align: bottom;
+	padding-right: 5%;
+	padding-left: 5%;
+}
+
+.name a{
+	font-size: 1rem;
+	text-decoration: none;
+	color: #f9f9f9;
+}
+
+.name a:hover{
+	color:#3EB6E0;
+}
+#stream{
+	margin-left:30%;
+	background-color:#1E1C25;
+	width:40%;
+	border-radius: 75px 75px 75px 75px;
+	box-shadow: 1px 1px 10px;
+	text-align: center;
+	padding: 0.1%;
+	}
+	
+.h2h h2 a{
+	color: #3EB6E0;
+}
+	
+.h2h h2 a:hover{
+	color: red;
+}
