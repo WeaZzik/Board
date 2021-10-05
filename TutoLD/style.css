@@ -1,7 +1,11 @@
 
 html
 {
-	background-image: url("BG2.jpg");
+	background: url("BG2.jpg") no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
 	background-attachment: fixed;
 }
 
