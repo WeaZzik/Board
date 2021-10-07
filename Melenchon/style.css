@@ -1,0 +1,31 @@
+html{
+	text-align: center;
+	background-image: url("https://cdn.radiofrance.fr/s3/cruiser-production/2020/11/b302c51a-2d96-40f2-807d-81c8068979b1/1136_maxnewsfrfour622021.jpg"); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+	background-attachment: fixed;
+}
+.acc{
+	position: top;
+	background-color: black;
+	opacity: 60%;
+	width: 100%;
+	height: 10%;
+	white-space: 200%;
+	border-radius: 20px;
+}
+.acc a{
+	text-decoration: none;
+	color: white;
+	font-size: 300%;
+}
+.acc a:hover{
+	color: grey;
+}
+.oui{
+	height: 200%;
+}
+#zemmour{
+	width: 30;
+}
