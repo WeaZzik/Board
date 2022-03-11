@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>LAB</title>
+        <script src="main.js"></script>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <div id="gamemenu">
+            <div id="balance"><div id="money">0</div><div style="color:orange;"><strong> $</strong></div></div>
+            <div class="nav"><div>HOME</div></div>
+            <div class="nav"><div>SHOP</div></div>
+            <div class="nav"><div>SETTINGS</div></div>
+            <div id="stats">
+                <div class="text_stats"><div style="color:rgb(0, 245, 253);"><strong>MULTIPLIER: </strong></div><div style="color:rgb(249, 253, 4);"><strong>x</strong></div><div id="multiplier" style="color:rgb(253, 187, 4);">0</div></div>
+                <div class="text_stats"><div style="color:rgb(0, 245, 253);"><strong>COMBO: </strong></div><div id="combo" style="color:rgb(253, 187, 4);">0</div><div style="color:rgb(249, 253, 4);"><strong>/100</strong></div></div>
+                <div class="text_stats"><div style="color:rgb(0, 245, 253);"><strong>GLOBAL: </strong></div><div id="clicktotal" style="color:rgb(253, 187, 4);">0</div><div style="color:rgb(249, 253, 4);"><strong> clicks</strong></div></div>
+            </div>
+            <div id="account" onclick="ClearData()"><img src="assets/account_icon.png" height='50%'/></div>
+        </div>
+        <div id="game" onclick="GameClicked()">
+            <div id="lab"></div>
+        </div>
+    </body>
+</html>
