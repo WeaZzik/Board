@@ -27,6 +27,7 @@ window.onload = function() {
         DataSaved = "No";
         Money = parseInt(localStorage.getItem('Money'));
         MoneyAdded = parseInt(localStorage.getItem('MoneyAdded'));
+        MoneyAddedPrice = parseInt(localStorage.getItem('MoneyAddedPrice'));
         Multiplier = parseInt(localStorage.getItem('Multiplier'));
         ComboTime = -1;
         Combo = 0;
@@ -58,6 +59,7 @@ window.onbeforeunload = function(){
     localStorage.setItem('Multiplier', Multiplier);
     localStorage.setItem('Money', Money);
     localStorage.setItem('MoneyAdded', MoneyAdded);
+    localStorage.setItem('MoneyAddedPrice', MoneyAddedPrice);
     localStorage.setItem('ClickTotal', ClickTotal);
  }
 
