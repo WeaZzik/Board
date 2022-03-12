@@ -91,6 +91,8 @@ function GameClicked(){
         ComboTime = -1;
         Combo = 0;
         document.getElementById("combo").innerHTML = Combo;
+        ComboBreakSound.pause();
+        ComboBreakSound.currentTime = 0;
         ComboBreakSound.play();
         var GameWidth = window.innerWidth - 151;
         var GameHeight = window.innerHeight - 151 - (window.innerHeight*12/100);
@@ -155,6 +157,8 @@ function ComboSettings(){
         ComboTime = -1;
         Combo = 0;
         document.getElementById("combo").innerHTML = Combo;
+        ComboBreakSound.pause();
+        ComboBreakSound.currentTime = 0;
         ComboBreakSound.play();
         var GameWidth = window.innerWidth - 151;
         var GameHeight = window.innerHeight - 151 - (window.innerHeight*12/100);
@@ -171,6 +175,8 @@ function ComboSettings(){
 function HomeButton(){
     if (document.getElementById("lab").style.visibility == 'hidden'){
         if (Combo > 0){
+            ComboBreakSound.pause();
+            ComboBreakSound.currentTime = 0;
             ComboBreakSound.play();
         }
         ComboTime = -1;
@@ -195,6 +201,8 @@ function HomeButton(){
 function ShopButton(){
     if (document.getElementById("shop").style.visibility !== 'visible'){
         if (Combo > 0){
+            ComboBreakSound.pause();
+            ComboBreakSound.currentTime = 0;
             ComboBreakSound.play();
         }
         ComboTime = -1;
@@ -213,6 +221,8 @@ function ShopButton(){
 function SettingsButton(){
     if (document.getElementById("settings").style.visibility == 'hidden'){
         if (Combo > 0){
+            ComboBreakSound.pause();
+            ComboBreakSound.currentTime = 0;
             ComboBreakSound.play();
         }
         ComboTime = -1;
