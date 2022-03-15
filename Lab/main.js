@@ -1,3 +1,6 @@
+
+\*	document.getElementById("account").style.width = document.getElementById("gamemenu").offsetHeight/1.5; */
+\*	document.getElementById("account").style.height = document.getElementById("account").style.width; */
 var Money = 0;
 var Multiplier = 1;
 var MoneyAdded = 1;
