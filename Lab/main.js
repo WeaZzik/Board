@@ -26,6 +26,9 @@ window.onload = function() {
     document.getElementById('account').style.height = document.getElementById('gamemenu').offsetHeight/1.8;
     document.getElementById('account').style.marginTop = (document.getElementById('gamemenu').offsetHeight - document.getElementById('gamemenu').offsetHeight/1.8)/2;
     document.getElementById('stats').style.fontSize = document.getElementById('stats').offsetHeight/4;
+    document.getElementById('BG1T1').style.fontSize = document.getElementById('buygui1').offsetHeight/7;
+    document.getElementById('BG1T2').style.fontSize = document.getElementById('buygui1').offsetHeight/8;
+    document.getElementById('BG1T3').style.fontSize = document.getElementById('buygui1').offsetHeight/8;
     var DataSaved = localStorage.getItem('DataSaved');
     window.addEventListener('resize', reportWindowSize);
     if (DataSaved == "Yes"){
