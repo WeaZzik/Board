@@ -22,6 +22,9 @@ var BuyTrueSound2 = new Audio('assets/BuyTrueSound2.wav');
 var ScreenWidth = window.innerWidth;
 
 window.onload = function() {
+    document.getElementById('account').style.width = document.getElementById('gamemenu').offsetHeight/1.8;
+    document.getElementById('account').style.height = document.getElementById('gamemenu').offsetHeight/1.8;
+    document.getElementById('account').style.marginTop = (document.getElementById('gamemenu').offsetHeight - document.getElementById('gamemenu').offsetHeight/1.8)/2;
     var DataSaved = localStorage.getItem('DataSaved');
     window.addEventListener('resize', reportWindowSize);
     if (DataSaved == "Yes"){
