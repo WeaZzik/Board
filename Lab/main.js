@@ -168,7 +168,7 @@ function GameClicked(){
         }
     }else{
         document.getElementById("lab").style.cursor = "not-allowed";
-        document.getElementById("lab").style.backgroundColor = "orange";
+        document.getElementById("lab").style.backgroundColor = "rgb(247,73,73)";
     }
 }
 function ComboSettings(){
