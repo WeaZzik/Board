@@ -115,7 +115,7 @@ function GameClicked(){
         setTimeout(function(){
             GameAllowed = true;
             document.getElementById("lab").style.cursor = "crosshair";
-            document.getElementById("lab").style.backgroundColor = "red";
+            document.getElementById("lab").style.backgroundColor = "rgb(247,73,73)";
         }, 2000);
     }
     if (GameAllowed == true){
@@ -168,7 +168,7 @@ function GameClicked(){
         }
     }else{
         document.getElementById("lab").style.cursor = "not-allowed";
-        document.getElementById("lab").style.backgroundColor = "rgb(247,73,73)";
+        document.getElementById("lab").style.backgroundColor = "orange";
     }
 }
 function ComboSettings(){
