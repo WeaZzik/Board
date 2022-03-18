@@ -21,8 +21,7 @@ var ComboBreakSound = new Audio('assets/ComboBreakSound.mp3');
 var MenuButtonSound = new Audio('assets/MenuButtonSound.wav');
 var BuyTrueSound1 = new Audio('assets/BuyTrueSound1.wav');
 var BuyTrueSound2 = new Audio('assets/BuyTrueSound2.wav');
-var ScreenWidth = window.innerWidth;
-window.onload = function() {
+window.onload = function(){
     document.getElementById('account').style.width = document.getElementById('gamemenu').offsetHeight/1.8;
     document.getElementById('account').style.height = document.getElementById('gamemenu').offsetHeight/1.8;
     document.getElementById('account').style.marginTop = (document.getElementById('gamemenu').offsetHeight - document.getElementById('gamemenu').offsetHeight/1.8)/2;
@@ -59,7 +58,6 @@ window.onload = function() {
     var ObjectYloc = GameHeight/2;
     document.getElementById("lab").style.visibility = 'visible';
     ShopButton();
-    HomeButton();
 }
 
 function getRandomInt(max) {
@@ -291,4 +289,5 @@ window.addEventListener('resize', function(){
     document.getElementById('BG1T1').style.fontSize = document.getElementById('buygui1').offsetHeight/7;
     document.getElementById('BG1T2').style.fontSize = document.getElementById('buygui1').offsetHeight/8;
     document.getElementById('BG1T3').style.fontSize = document.getElementById('buygui1').offsetHeight/8;
+    document.getElementById('lab').style.visibility = "visible";
 }, true);
