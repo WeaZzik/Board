@@ -58,20 +58,8 @@ window.onload = function() {
     var ObjectXloc = GameWidth/2;
     var ObjectYloc = GameHeight/2;
     document.getElementById("lab").style.visibility = 'visible';
-    ComboTime = -1;
-    Combo = 0;
-    document.getElementById("combo").innerHTML = Combo;
-    var GameWidth = window.innerWidth - 151;
-    var GameHeight = window.innerHeight - 151 - (window.innerHeight*12/100);
-    var ObjectRadius = 150;
-    var ObjectXloc = (window.innerWidth - 151) / 2;
-    var ObjectYloc = (window.innerHeight - 151 - (window.innerHeight*12/100)) / 2;
-    document.getElementById("lab").style.height = ObjectRadius;
-    document.getElementById("lab").style.width = ObjectRadius;
-    document.getElementById("lab").style.left = ObjectXloc;
-    document.getElementById("lab").style.top = ObjectYloc;
-    document.getElementById("shop").style.visibility = 'hidden';
-    document.getElementById("lab").style.visibility = 'visible';
+    ShopButton();
+    HomeButton();
 }
 
 function getRandomInt(max) {
