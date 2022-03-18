@@ -21,6 +21,9 @@ var ComboBreakSound = new Audio('assets/ComboBreakSound.mp3');
 var MenuButtonSound = new Audio('assets/MenuButtonSound.wav');
 var BuyTrueSound1 = new Audio('assets/BuyTrueSound1.wav');
 var BuyTrueSound2 = new Audio('assets/BuyTrueSound2.wav');
+document.getElementById('lab').style.visibility = "visible";
+document.getElementById("lab").style.left = 200;
+document.getElementById("lab").style.top = 200;
 window.onload = function(){
     document.getElementById('account').style.width = document.getElementById('gamemenu').offsetHeight/1.8;
     document.getElementById('account').style.height = document.getElementById('gamemenu').offsetHeight/1.8;
@@ -171,7 +174,7 @@ function GameClicked(){
         }
     }else{
         document.getElementById("lab").style.cursor = "not-allowed";
-        document.getElementById("lab").style.backgroundColor = "purple";
+        document.getElementById("lab").style.backgroundColor = "#EF4622";
     }
 }
 function ComboSettings(){
